@@ -1,0 +1,17 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define SENSOR_PIN 4
+#define ACTUATOR_PIN 15
+
+#define SSID "DESKTOP-3S2KBU7 3560"
+#define SSID "Easytohack1999"
+
+#define MQTT_BROKER "broker.hivemq.com"
+#define MQTT_PARKING_ID "PARKING_1"
+#define CAPACITY "10"
+#define MQTT_IN_TOPIC "SDA/PARKING_1/INPUT"
+#define MQTT_OUT_TOPIC "SDA/PARKING_1/OUTPUT"
+#define MQTT_REGISTER_TOPIC "SDA/PARKING_REGISTER/OUTPUT"
+
+#endif
